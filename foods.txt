@@ -1,0 +1,5 @@
+hamburger
+pasta
+sandwich
+fruit
+vegetable
